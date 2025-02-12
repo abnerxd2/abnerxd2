@@ -14,6 +14,7 @@ I completed my studies in programming at [Fundacion Kinal](https://www.kinal.org
 #### Languages:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
 
 
@@ -34,7 +35,7 @@ I completed my studies in programming at [Fundacion Kinal](https://www.kinal.org
 
 <p align = "center">
  
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](linkedin.com/in/abner-del-cid-152a48350)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/abner_d.p?igsh=MW1weXBhbnNhYWtmMg== )
 </p>
 
