@@ -9,7 +9,13 @@ I completed my studies in programming at [Fundacion Kinal](https://www.kinal.org
 - machine learning projects(development or research),
 
 
-## Skills:
+## Connect with me:
+
+<p align = "center">
+ 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](linkedin.com/in/abner-del-cid-152a48350)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/abner_d.p?igsh=MW1weXBhbnNhYWtmMg== )
+</p>
 
 
 # 💻 Tech Skills:
@@ -25,26 +31,8 @@ I completed my studies in programming at [Fundacion Kinal](https://www.kinal.org
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-#### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-#### Tools and Technologies
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-<!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
-
-#### IDEs
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 
-## Connect with me:
-
-<p align = "center">
- 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](linkedin.com/in/abner-del-cid-152a48350)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/abner_d.p?igsh=MW1weXBhbnNhYWtmMg== )
-</p>
 
 
 
