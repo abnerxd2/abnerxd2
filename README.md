@@ -1,7 +1,7 @@
 ### Hi there, I'm [Abner Del Cid ](https://durgeshsamariya.github.io) 👋
 
 
-I completed my studies in [programming at Fundacion Kinal](https://www.kinal.org.gt).
+I completed my studies in programming at [Fundacion Kinal](https://www.kinal.org.gt).
 
  **I am open to**:
 
@@ -35,7 +35,7 @@ I completed my studies in [programming at Fundacion Kinal](https://www.kinal.org
 <p align = "center">
  
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/abner_d.p?igsh=MW1weXBhbnNhYWtmMg== )
 </p>
 
 
